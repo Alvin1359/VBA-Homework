@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module3"
 Sub Greatest()
 
     For Each ws In Worksheets
