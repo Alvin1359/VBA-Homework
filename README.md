@@ -1,7 +1,7 @@
 # VBA Homework
 Repository containing VBA Homework task
   
-- _.bas_ files contain VBA scripts to analyse Multiple_year_stock_data.xlsx
+- _.bas_ files contain VBA scripts to analyse a multiple year stock market dataset
 - _.jpg_ files contain results
   
 **Created with:**
