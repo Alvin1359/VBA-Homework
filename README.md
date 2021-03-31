@@ -1,13 +1,14 @@
 # VBA Homework
-Repository containing VBA Homework task
-  
+Repository containing VBA Homework task  
 - _.bas_ files contain VBA scripts to analyse a multiple year stock market dataset
 - _.jpg_ files contain results
-  
+
 **Created with:**
-  
-Microsoft Excel Analysis ToolPak
-  
+ 
+Microsoft Excel Analysis ToolPak  
+
+_alphabetical_testing.xlsx_ has been provided to run the VBA scripts on as the original dataset is too large to be uploaded here
+
 **Please run code in the following order for best results:**
 ```
 1. Ticker_and_Total_Stock_Volume.bas
