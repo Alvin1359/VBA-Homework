@@ -16,7 +16,7 @@ _alphabetical_testing.xlsx_ has been provided to run the VBA scripts on as the o
 3. Greatest.bas
 ```
   
-This challenge involves analysing a stock market dataset using VBA scripts to output:**
+**This challenge involves analysing a stock market dataset using VBA scripts to output:**
 - Ticker Symbol
 - Yearly and Percent Change from opening to closing price
 - Total Volume of stock traded for each ticker
